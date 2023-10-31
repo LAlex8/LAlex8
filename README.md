@@ -14,5 +14,5 @@ Python, Pandas, Numpy, Matplotlib, SciPy
 
 ##### Contacts:
 You can contact with me by:\
-email: lalex.8@yandex.ru\
+Email: lalex.8@yandex.ru\
 TG: https://t.me/unttof
