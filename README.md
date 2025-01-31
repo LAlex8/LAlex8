@@ -4,7 +4,11 @@
 
 ### My name is Aleksei Litvinov :raising_hand: 
 
-I am a junior data analyst. I am interested in data science, big data, statistics, and actively looking for a job.
+Data Analyst with experience in science and business. Throughout my career, I have been involved in data collection, processing, and analysis, and have worked with geographic information systems, SQL, Python, and BI tools. In my scientific work, I studied transforming natural processes, processed large datasets, and presented results at international conferences. In business, I optimized processes, implemented digital accounting systems, and analyzed key performance indicators.
+
+In 2022, I moved to Kazakhstan and deepened my knowledge in data analytics, completing a data analyst program at Yandex.Practicum. I mastered Python, SQL, statistics, A/B testing, visualization and data manipulation techniques.
+
+Interests: aviation and landscape photography, hiking, music, reading.
 
 ###### Databases: 
 PostgreSQL, MySQL
